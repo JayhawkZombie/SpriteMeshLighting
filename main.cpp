@@ -35,6 +35,10 @@
  * Every 2 values constitutes a point along the contour
  **/
 
+/*
+ *  From https://docs.opencv.org/3.3.1/df/d0d/tutorial_find_contours.html
+ **/
+
 //#include "opencv2/imgcodecs.hpp"
 //#include "opencv2/highgui.hpp"
 //#include "opencv2/imgproc.hpp"
